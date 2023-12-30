@@ -1,0 +1,5 @@
+openai_cookie_file=${HOME}/openai.json
+logger_name=The Hunter
+logging_file=The_hunter.log
+logging_level=10
+indentation_level=4
