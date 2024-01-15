@@ -20,7 +20,7 @@ This project provides a customizable web interface for ChatGPT, allowing you to 
 </p>
 
 
-## **Use Case**
+## **Use Cases**
 
 1. Education and Learning:
    - **Use Case**: Educators or students interested in understanding how ChatGPT's interface works or teaching/learning web development.
@@ -49,12 +49,13 @@ This project provides a customizable web interface for ChatGPT, allowing you to 
 
 ```
 git clone https://github.com/Simatwa/revChatGPT.git
+cd revChatGPT
 pip install -r requirements.txt
 ```
 
 ## Usage 
 
-- You need cookies to bypass the login stage. That has been well documented in [WebChatGPT](https://github.com/Simatwa/WebChatGPT). Just in summary the doument reads:
+- You need cookies to bypass the login stage. That has been well documented in [WebChatGPT](https://github.com/Simatwa/WebChatGPT). Just in summary the document reads:
 
 The script utilizes [HTTP Cookies](https://en.wikipedia.org/wiki/HTTP_cookie) and [OAuth](https://en.wikipedia.org/wiki/OAuth) to justify the REST-API requests at [Openai](https://openai.com). 
 
